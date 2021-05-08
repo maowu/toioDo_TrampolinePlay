@@ -13,3 +13,8 @@ This is a toioDo game project
 character design
 
 <img src="images/flowers.png" width="400">
+
+## [Energy meter visualization]
+
+<img src="images/powerUI.gif" height="400">
+
